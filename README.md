@@ -1,5 +1,5 @@
 # PokemonGo
- https://pokeapi.co to get our data
+ https://pokeapi.co -->API 
 
 
 Functions made, demonstrated, learned in this project;
